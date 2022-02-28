@@ -1,1 +1,1 @@
-"A good programmer is someone who always looks both ways before crosing a one-way street." "First, solve the problem. Then, write the code." – Doug Linder
+"A good programmer is someone who always looks both ways before crosing a one-way street." – Doug Linder
